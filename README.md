@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I play cricket and part of local team!
-[linkedin]: www.linkedin.com/in/umangp23
+[linkedin]: https://linkedin.com/in/umangp23
 -->
