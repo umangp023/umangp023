@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🤔 I’m looking for help with my codes and few projects!
-⚡ Fun fact: I play cricket and part of local team!
+- 🤔 I’m looking for help with my codes and few projects!
+- ⚡ Fun fact: I play cricket and part of local team!
 
 <!--
 **umangp023/umangp023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
