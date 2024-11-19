@@ -1,8 +1,8 @@
 ### Hi there 👋
-## I'm a Student at LaSalle University!
+## I'm a Software Engineer at Evernorth (Cigna)!
 
 - 🤔 I’m looking for help with my codes and few projects!
-- ⚡ Fun fact: I play cricket and part of local team!
+- ⚡ Fun fact: I play cricket, and love cooking.
 
 👔[Linkedin][linkedin]
 
